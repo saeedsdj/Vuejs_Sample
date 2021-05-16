@@ -10,7 +10,7 @@
 https://levelup.gitconnected.com/the-complete-nuxt-guide-940751e1a6a5
 </div>
 
-### <div dir='rtl'>لیست سوالات</div>
+### <div dir='rtl'>سوالات</div>
 <div dir='rtl'>
 
 1. نمایش لیست کتاب ها به صورت جدولی در صفحه. با تمام عملیاتهای جدید، ویرایش، حذف و نمایش
